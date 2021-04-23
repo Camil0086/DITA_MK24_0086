@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map>
+   <appContext helpID="C_our_friend_the_tree"
+               path="Topics/C01_our_friend_the_tree.html"/>
+   <appContext helpID="C_solid_wood" path="Topics/C02_solid_wood.html"/>
+   <appContext helpID="C_on_trips_to_india" path="Topics/C03_on_trips_to_india.html"/>
+   <appContext helpID="C04_environmental_friendliness_and_sustainability"
+               path="Topics/C04_environmental_friendliness_and_sustainability.html"/>
+   <appContext helpID="T01_from_the_website_to_my_home"
+               path="Topics/T01_from_the_website_to_my_home.html"/>
+   <appContext helpID="T02_complaints_how_does_it_work"
+               path="Topics/T02_complaints_how_does_it_work.html"/>
+   <appContext helpID="T03_tipps_hints"
+               path="Topics/T03_first_aid_tips_and_tricks_for_solid_furniture.html"/>
+   <appContext helpID="T03A_removing_wood_worms"
+               path="Topics/T03A_removing_wood_worms.html"/>
+   <appContext helpID="T03B_removing_scratches"
+               path="Topics/T03B_removing_scratches.html"/>
+   <appContext helpID="Untitled" path="Topics/T03C_removing_stains.html"/>
+   <appContext helpID="R01_known_types_of_wood_at_a_glance"
+               path="Topics/R01_known_types_of_wood_at_a_glance.html"/>
+   <appContext helpID="T04A_the_acacia_a_real_multi_talent"
+               path="Topics/T04A_the_acacia_a_real_multi_talent.html"/>
+   <appContext helpID="T04B_beam_oak_vs_wild_oak"
+               path="Topics/T04B_beam_oak_vs__wild_oak.html"/>
+   <appContext helpID="R02_the_most_popular_furnishing_styles_at_a_glance"
+               path="Topics/R02_the_most_popular_furnishing_styles_at_a_glance.html"/>
+   <appContext helpID="T03A_removing_wood_worms"
+               path="Topics/T03A_removing_wood_worms.html"/>
+   <appContext helpID="T03B_removing_scratches"
+               path="Topics/T03B_removing_scratches.html"/>
+   <appContext helpID="T03B_removing_scratches"
+               path="Topics/T03B_removing_scratches.html"/>
+   <appContext helpID="Untitled" path="Topics/T03C_removing_stains.html"/>
+   <appContext helpID="Untitled" path="Topics/T03C_removing_stains.html"/>
+   <appContext helpID="T03A_removing_wood_worms"
+               path="Topics/T03A_removing_wood_worms.html"/>
+</map>
