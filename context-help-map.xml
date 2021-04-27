@@ -19,10 +19,8 @@
    <appContext helpID="Untitled" path="Topics/T03C_removing_stains.html"/>
    <appContext helpID="R01_known_types_of_wood_at_a_glance"
                path="Topics/R01_known_types_of_wood_at_a_glance.html"/>
-   <appContext helpID="T04A_the_acacia_a_real_multi_talent"
-               path="Topics/T04A_the_acacia_a_real_multi_talent.html"/>
-   <appContext helpID="T04B_beam_oak_vs_wild_oak"
-               path="Topics/T04B_beam_oak_vs__wild_oak.html"/>
+   <appContext helpID="" path="Topics/T04A_the_acacia_a_real_multi_talent.html"/>
+   <appContext helpID="" path="Topics/T04B_beam_oak_vs__wild_oak.html"/>
    <appContext helpID="R02_the_most_popular_furnishing_styles_at_a_glance"
                path="Topics/R02_the_most_popular_furnishing_styles_at_a_glance.html"/>
    <appContext helpID="T03A_removing_wood_worms"
