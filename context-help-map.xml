@@ -27,6 +27,8 @@
                path="Topics/C05B_beam_oak_vs__wild_oak.html"/>
    <appContext helpID="R02_the_most_popular_furnishing_styles_at_a_glance"
                path="Topics/R02_the_most_popular_furnishing_styles_at_a_glance.html"/>
+   <appContext helpID="R03_the_symbolism_of_trees"
+               path="Topics/R03_the_symbolism_of_trees.html"/>
    <appContext helpID="T03A_removing_wood_worms"
                path="Topics/T03A_removing_wood_worms.html"/>
    <appContext helpID="T03B_removing_scratches"
