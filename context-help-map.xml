@@ -25,6 +25,8 @@
                path="Topics/C05A_the_acacia_a_real_multi_talent.html"/>
    <appContext helpID="T04B_beam_oak_vs_wild_oak"
                path="Topics/C05B_beam_oak_vs__wild_oak.html"/>
+   <appContext helpID="C05C_what_is_sheesham_called_also_rosewood"
+               path="Topics/C05C_what_is_sheesham_called_also_rosewood.html"/>
    <appContext helpID="R02_the_most_popular_furnishing_styles_at_a_glance"
                path="Topics/R02_the_most_popular_furnishing_styles_at_a_glance.html"/>
    <appContext helpID="R03_the_symbolism_of_trees"
