@@ -461,7 +461,7 @@ Example:
  *
  */
 .wh_footer {
-  background-color: #0b6a9c;
+  background-image: url("resources/images/footclouds.jpg");
   background-size: cover;
   padding: 4em 0em;
   color: #ffffff;
@@ -499,7 +499,7 @@ Example:
 .topictitle4,
 .topictitle5,
 .topictitle6 {
-  color: #ff0000;
+  color: #525151;
 }
 .wh_expand_btn {
   left: -1px;
