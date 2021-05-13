@@ -1,0 +1,1 @@
+define({"topics":[{"title":"hard wax plane","href":"Topics\/Glossary\/G01_hard_wax_plane.html","attributes":{"data-id":"G01_hard_wax_plane"},"menu":{"hasChildren":false},"tocID":"G01_hard_wax_plane-d292e594","topics":[]}]});
