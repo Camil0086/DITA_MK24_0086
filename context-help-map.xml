@@ -34,6 +34,14 @@
    <appContext helpID="R04_glossary" path="Topics/Glossary/R04_glossary.html"/>
    <appContext helpID="G01_hard_wax_plane"
                path="Topics/Glossary/G01_hard_wax_plane.html"/>
+   <appContext helpID="G02_tannin" path="Topics/Glossary/G02_tannins.html"/>
+   <appContext helpID="G03_mimosa_bark" path="Topics/Glossary/G03_mimosa_bark.html"/>
+   <appContext helpID="G04_sapwood" path="Topics/Glossary/G04_sapwood.html"/>
+   <appContext helpID="G05_heartwood" path="Topics/Glossary/G05_heartwood.html"/>
+   <appContext helpID="G06_bast" path="Topics/Glossary/G06_bast.html"/>
+   <appContext helpID="G07_resin" path="Topics/Glossary/G07_resin.html"/>
+   <appContext helpID="G08_nucleation" path="Topics/Glossary/G08_nucleation.html"/>
+   <appContext helpID="G09_crown_roots" path="Topics/Glossary/G09_crown_roots.html"/>
    <appContext helpID="T03A_removing_wood_worms"
                path="Topics/T03A_removing_wood_worms.html"/>
    <appContext helpID="T03B_removing_scratches"
