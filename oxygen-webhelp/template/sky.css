@@ -31,6 +31,7 @@ body {
 }
 .wh_header {
   background-image: linear-gradient(#0b6a9c, transparent), url("resources/images/navclouds.jpg");
+  background-size: cover;
 }
 .wh_expand_btn:before {
   margin-left: 15px;
@@ -301,7 +302,7 @@ Example:
   text-align: center;
   background-color: #0b6a9c;
   background-image: url("resources/images/Clouds.jpg");
-  background-position: center bottom;
+  background-position: 70% bottom;
   background-size: cover;
 }
 .wh_main_page_search {
