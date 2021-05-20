@@ -44,6 +44,7 @@
    <appContext helpID="G09_crown_roots" path="Topics/Glossary/G09_crown_roots.html"/>
    <appContext helpID="G10_wood_stain" path="Topics/Glossary/G10_wood_stain.html"/>
    <appContext helpID="G11_veneers" path="Topics/Glossary/G11_veneer.html"/>
+   <appContext helpID="G12_grain" path="Topics/Glossary/G12_grain.html"/>
    <appContext helpID="T03A_removing_wood_worms"
                path="Topics/T03A_removing_wood_worms.html"/>
    <appContext helpID="T03B_removing_scratches"
