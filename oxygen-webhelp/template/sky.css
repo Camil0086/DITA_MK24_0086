@@ -55,7 +55,7 @@ a:hover {
   text-transform: none;
   font-weight: normal;
   line-height: 1em;
-  font-size: 1.7em;
+  font-size: 4em;
 }
 /*
  * ------------------------------------------------------------------
@@ -64,7 +64,7 @@ a:hover {
  *  
  */
 .wh_top_menu {
-  font-size: 1em;
+  font-size: 1.2em;
   margin: .4em 0;
 }
 /*.wh_top_menu ul {
@@ -470,7 +470,7 @@ Example:
   align-items: center;
 }
 .wh_footer a {
-  color: #1ea7ef;
+  color: #ffffff;
 }
 /*
  * ------------------------------------------------------------------
