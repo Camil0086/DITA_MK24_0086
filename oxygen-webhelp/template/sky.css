@@ -472,6 +472,13 @@ Example:
 .wh_footer a {
   color: #ffffff;
 }
+@page :right{
+  @bottom-center {
+      content: "© 2017 - My Company Ltd \A All rights reserved";
+      font-size: 0.5em;
+      color: silver;
+  }    
+}
 /*
  * ------------------------------------------------------------------
  *
